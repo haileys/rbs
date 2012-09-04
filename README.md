@@ -4,6 +4,10 @@
 
 It tries to make shelling out easier and nicer.
 
+## This sounds good!! how do I get it???
+
+    gem install rbs
+
 ## Quick Examples
 
 **Query the en0 network interface:**
