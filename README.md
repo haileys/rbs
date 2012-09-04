@@ -61,7 +61,7 @@ rbs.curl(:X, "POST", :"data-ascii", %{{"my":["example","json","document"]}})
   end
   ```
 
-* You can also pass a `Hash` into an rbs command and it will be decomposed into arguments:
+* You can also pass a `Hash` into an **rbs** command and it will be decomposed into arguments:
 
   ```ruby
   require "rbs"
